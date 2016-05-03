@@ -130,6 +130,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  kramdown (~> 1.10)
   middleman (~> 3.4.1)
   middleman-livereload (~> 3.3.0)
   tzinfo-data
